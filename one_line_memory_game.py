@@ -371,7 +371,8 @@ while 10==10:
             y=chch[1]
         #        if list1[x]=='*' or list1[y]=='*':
          #           print 'these charachters are deleted'
-          #          n=n+1
+
+                #          n=n+1
            #     else:
             #        break
             newlist1=[]
@@ -435,4 +436,5 @@ while 10==10:
             print 'Game ended and the winner is CPU'+' '+'(User1:'+str(score1)+'-'+'CPU:'+str(score2)+')'
         else:
             print 'Game ended and its tight'+' '+'(User1:'+str(score1)+'-'+'CPU:'+str(score2)+')'
-                
+        print '-------------------------------------------------------'
+        
